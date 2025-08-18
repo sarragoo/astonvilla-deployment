@@ -14,7 +14,7 @@ spec:
      spec:
        containers:
        - name: astonvilla
-         image: sarrag/astonvilla-app:1.0.27
+         image: sarrag/astonvilla-app:1.0.28
 ---
 apiVersion: v1
 kind: Service
